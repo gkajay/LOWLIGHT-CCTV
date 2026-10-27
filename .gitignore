@@ -1,0 +1,7 @@
+node_modules/
+dist/
+__pycache__/
+.venv/
+backend/weights/*.pth
+backend/data/*.json
+LOLdataset/

@@ -1,0 +1,9 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
+pillow>=10.0
+numpy>=1.24
+scikit-image>=0.22
+# Install PyTorch separately (CPU build is enough):
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+torch>=2.0
